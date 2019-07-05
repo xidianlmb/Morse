@@ -22,8 +22,9 @@
   3.2.数码管代码和电路图：chuankou文件夹
 
 4.
-  4.1.Morse代码tinkercad可运行代码：Morse2文件夹
+  4.1.Morse代码tinkercad可运行代码：Morse2文件夹  
+  4.3.驱动四个数码管显示四个数：xianshi文件夹
   
-  4.2.总结：
+  4.3.总结：
   >system.md
   
