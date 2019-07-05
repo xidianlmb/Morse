@@ -12,12 +12,15 @@
 2.Morse代码，函数库形式：Morse1文件夹（之前上传的sketch_jul03b.ino有错误，作废处理）
 
 3.
-  3.1.小车代码和电路图：car.ino   捕获.PNG
+  3.1.小车代码和电路图：
+  >car.ino  
+  >捕获.PNG
   
   3.2.数码管代码和电路图：chuankou文件夹
 
 4.
   4.1.Morse代码tinkercad可运行代码：Morse2文件夹
   
-  4.2.总结：summary.md
+  4.2.总结：
+  >summary.md
   
